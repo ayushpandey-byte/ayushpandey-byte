@@ -7,11 +7,6 @@ Software Developer & CSE Undergrad. Focused on web engineering, core systems, an
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/)
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](#)
----
-
 ### Core Stack & Tools
 
 - **Languages:** C++, JavaScript, TypeScript, Python
