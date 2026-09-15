@@ -1,24 +1,32 @@
-```bash
-[pipeline] ayush_pandey --run started
+# Ayush Pandey
 
-[STAGE] education
-  - B.Tech Computer Science & Engineering
-  - Focus: Machine Learning Foundations, Data Structures & Systems
+Software Developer & CSE Undergrad. Focused on web engineering, core systems, and structured problem solving.
 
-[STAGE] stack
-  - Languages : C++, Python, JavaScript
-  - ML / Data : PyTorch, Scikit-Learn, NumPy, Pandas
-  - Web & DB  : FastAPI, React, Node.js, PostgreSQL, Git
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kodoAyush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/)
 
-[STAGE] focus_areas
-  - Applied Machine Learning & Model Integration
-  - Core C++ Algorithms & Systems Architecture
-  - Modular, Production-Grade REST APIs
+---
 
-[STAGE] signal
-  - Active DSA Problem Solving (C++)
-  - Open Source Exploration & Developer Tools
-  - Building Modular CLI Tools & Pipelines
+### Core Stack & Tools
 
-[pipeline] run complete
-```
+- **Languages:** C++, JavaScript, TypeScript, Python
+- **Web & Backend:** React, Node.js, Express, REST APIs, HTML5/CSS3
+- **Tools & Cloud:** Git, GitHub, Linux, Firebase, Postman
+
+---
+
+### Featured Work
+
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Project Alpha** | Full-stack application solving [specific real-world problem]. | React, Node.js, MongoDB | [Live Demo](#) · [Source](#) |
+| **Systems / CLI Tool** | Lightweight utility built to handle [specific functional task]. | C++, POSIX | [Source](#) |
+
+---
+
+### Focus & Current Benchmarks
+
+- 🧩 Deepening Data Structures & Algorithms in C++.
+- 🛠️ Building production-ready full-stack applications with Firebase/cloud backends.
+- ⚡ Actively competing in hackathons and developer sprint challenges.
