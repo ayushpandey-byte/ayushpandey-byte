@@ -1,101 +1,32 @@
-<div align="center">
+# Ayush Pandey
 
-# Hey, I'm Ayush Pandey 👋
-### `< CSE Student · AI Enthusiast · Web Dev in Progress />`
+Software Developer & CSE Undergrad. Focused on web engineering, core systems, and structured problem solving.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=First+Year+CSE+Student+%F0%9F%8E%93;Building+cool+things+with+code+%F0%9F%9A%80;Exploring+AI+%26+Web+Development+%F0%9F%A7%A0;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    string name     = "Ayush Pandey";
-    string role     = "CSE Student — 1st Year, 2nd Sem";
-    string learning = "C++ → DSA → Web Dev → AI";
-    string goal     = "Build, Learn, Get Placed 🚀";
-
-    cout << "Hi, I'm " << name << endl;
-    cout << "Currently: " << learning << endl;
-    cout << "Goal: " << goal << endl;
-
-    return 0;
-}
-```
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kodoAyush)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/)
 
 ---
 
-## 🚀 What I'm Up To
+### Core Stack & Tools
 
-- 🌱 Currently learning **Data Structures & Algorithms in C++**
-- 🤖 Curious about **Artificial Intelligence & Machine Learning**
-- 🌐 Exploring **Web Development** (HTML, CSS, JS — coming soon!)
-- 📚 Building a strong DSA foundation for **placements**
-- ⚡ Uploading all my practice & projects here on GitHub
+- **Languages:** C++, JavaScript, TypeScript, Python
+- **Web & Backend:** React, Node.js, Express, REST APIs, HTML5/CSS3
+- **Tools & Cloud:** Git, GitHub, Linux, Firebase, Postman
 
 ---
 
-## 🛠️ Tech Stack
+### Featured Work
 
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Coming Soon:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Project Alpha** | Full-stack application solving [specific real-world problem]. | React, Node.js, MongoDB | [Live Demo](#) · [Source](#) |
+| **Systems / CLI Tool** | Lightweight utility built to handle [specific functional task]. | C++, POSIX | [Source](#) |
 
 ---
 
-## 📊 GitHub Stats
+### Focus & Current Benchmarks
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kodoAyush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodoAyush&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kodoAyush&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-kodoAyush-181717?style=for-the-badge&logo=github)](https://github.com/kodoAyush)
-
-*LinkedIn & portfolio coming soon!*
-
-</div>
-
----
-
-<div align="center">
-
-⭐ *"The best time to start was yesterday. The second best time is now."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=kodoAyush&color=00c9ff&style=flat-square&label=Profile+Views)
-
-</div>
-
-
+- 🧩 Deepening Data Structures & Algorithms in C++.
+- 🛠️ Building production-ready full-stack applications with Firebase/cloud backends.
+- ⚡ Actively competing in hackathons and developer sprint challenges.
