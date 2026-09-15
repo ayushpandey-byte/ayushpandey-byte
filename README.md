@@ -29,3 +29,5 @@ Software Developer & CSE Undergrad. Focused on web engineering, core systems, an
 - 🧩 Deepening Data Structures & Algorithms in C++.
 - 🛠️ Building production-ready full-stack applications with Firebase/cloud backends.
 - ⚡ Actively competing in hackathons and developer sprint challenges.
+
+![Pirate crew stats](./pirate-stats.svg)
